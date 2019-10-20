@@ -10,11 +10,3 @@ You can sign up anytime between October 1 and October 31.
 
 #### How to get started?
 
-* Proceed to [Hacktoberfest website](https://hacktoberfest.digitalocean.com)
-
-![](../hacktoberfest1.jpg)
-
-![]()
-
-
-![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
