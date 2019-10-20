@@ -8,5 +8,14 @@
 To participate, four pull requests must be submitted to public GitHub repositories.
 You can sign up anytime between October 1 and October 31.
 
-#### How to get started?
+
+#### To read more about Hacktoberfest Frequently Asked Questions info on the official cite
+
+* [General](https://hacktoberfest.digitalocean.com/faq#general)
+
+* [Rules](https://hacktoberfest.digitalocean.com/faq#rules)
+
+* [Events](https://hacktoberfest.digitalocean.com/faq#events)
+
+* [Shipping](https://hacktoberfest.digitalocean.com/faq#shipping)
 
