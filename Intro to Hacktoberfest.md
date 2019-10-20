@@ -12,9 +12,9 @@ You can sign up anytime between October 1 and October 31.
 
 * Proceed to [Hacktoberfest website](https://hacktoberfest.digitalocean.com)
 
-![](hacktoberfest1.png)
+![](../hacktoberfest1.jpg)
 
 ![]()
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
