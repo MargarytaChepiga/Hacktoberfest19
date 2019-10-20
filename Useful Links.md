@@ -16,6 +16,8 @@
 
 * [Hacktoberfest with Coding Blocks 2019](https://blog.codingblocks.com/2019/cb-hacktoberfest-2019/)
 
+* [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+
 ### Github repos
 
 * List of GitHub repos related to Hacktoberfest: [Hacktoberfest](https://github.com/topics/hacktoberfest)
