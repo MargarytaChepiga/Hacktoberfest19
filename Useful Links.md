@@ -24,6 +24,10 @@
 
 * [Git Guide for Open Source Contributions](https://github.com/chhavip/Git-Guide)
 
+* [Github Issues regarding Hacktoberfest](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+no%3Aassignee+is%3Aissue&type=Issues)
+
+* [Github repos focued on Climate change](https://github.com/topics/climate-change)
+
 ### Twitter
 
 #### Accounts to follow
