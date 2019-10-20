@@ -1,5 +1,6 @@
 ### Intro to [Hacktoberfest](https://hacktoberfest.digitalocean.com)
 
+
 #### What is [Hacktoberfest](https://hacktoberfest.digitalocean.com)?
 
 [Hacktoberfest](https://hacktoberfest.digitalocean.com) is a month-long celebration of open source software run by DigitalOcean and DEV.
@@ -39,6 +40,14 @@ You can sign up anytime between October 1 and October 31.
 
 * [Awesome for Beginners](https://github.com/mungell/awesome-for-beginners)
 
+
+#### Once you start feeling more comfortable, you can find more open source projects through the following programs:
+
+* [Pull Request Roulette](http://www.pullrequestroulette.com/)
+
+* [Code Triage](https://www.codetriage.com)
+
+* [24 Pull Requests](https://24pullrequests.com)
 
 
 
