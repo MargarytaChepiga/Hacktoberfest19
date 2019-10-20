@@ -50,4 +50,25 @@ You can sign up anytime between October 1 and October 31.
 * [24 Pull Requests](https://24pullrequests.com)
 
 
+### Resources
+
+#### Git
+
+* [Understanding GitHub flow](https://guides.github.com/introduction/flow/)
+
+* [Patchwork](https://guides.github.com/introduction/flow/)
+
+#### Open Source
+
+* [Open Source Guides](https://opensource.guide/)
+* [Articles about Open Source](https://dev.to/t/opensource)
+
+#### Where to find open source projects to work on?
+
+* [Hacktoberfest](https://help.github.com/en/articles/finding-open-source-projects-on-github)
+
+* [Find more resources and useful tips for participants on the Hacktoberfest site.](https://hacktoberfest.digitalocean.com/#projects)
+
+
+
 
