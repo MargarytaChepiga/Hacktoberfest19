@@ -1,4 +1,4 @@
-### Intro to [Hacktoberfest](https://hacktoberfest.digitalocean.com)
+### Introduction to [Hacktoberfest](https://hacktoberfest.digitalocean.com)
 
 
 #### What is [Hacktoberfest](https://hacktoberfest.digitalocean.com)?
